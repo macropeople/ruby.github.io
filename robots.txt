@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.ruby.cards/sitemap.xml
